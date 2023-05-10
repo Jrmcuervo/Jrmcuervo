@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack developer who is always looking for new challenges and opportunities to learn and grow in the tech industry. Currently, I'm studying at Microverse, a global community of programmers that focuses on education and professional development.
+On a mission to create innovative, impactful apps. Gaining knowledge and experience to turn my vision into reality as a Full Stack Dev.
 
 🚀 **My Goals**
 
